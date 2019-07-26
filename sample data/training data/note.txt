@@ -1,0 +1,21 @@
+Here are 6 sections of a CISTR where a mixer is creating a suspension of copper particles in water. 
+Section number corresponds to how far away the section is from the center of coordinates.
+x1 is the supplementary cone bottom angle of the reactor
+x2, x3 and x4 are spatial coordinates inside the reactor
+y1 is concentration of copper particles, Npart/m3
+y2 is velocity of particles, m/s
+y3 is vorticity, 1/s
+y4 is kinetic energy of turbulent pulsations, m^2/s^2
+y5 is rate of dissipation of turbulent energy, m^2/s^3
+y6 is eddy viscosity, Pa*s
+
+Здесь представлены 6 сечений реактора идеального смешения, в котором мешалка создает суспензию частиц меди в воде.
+Порядковый номер сечения указывает на расстояние сечения от центра координат, располагающегося в центре реактора.
+х1 - смежный угол конуса днища реактора
+х2, х3, х4 - пространственные координаты внутри реактора
+у1 - концентрация частиц меди, Nчаст/м3
+у2 - скорость частиц, м/с
+у3 - завихренность, 1/с
+у4 - кинетическая энергия турбулентных пульсаций, м^2/с^2
+у5 - скорость диссипации турбулентной энергии, м^2/с^3
+у6 - динамический коэффициент турбулентной вязкости, Па*с

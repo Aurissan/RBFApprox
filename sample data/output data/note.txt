@@ -1,0 +1,17 @@
+Files "section110" etc contain all 6 section of the reactor with a different bottom cone angle.
+These files were used to calculate outputs of the network, shown in the "110gauss9(10)-1-95" and similar files. 
+The name of such a file denotes:
+"110" means the cone bottom angle that was calculated
+"gauss" means the selected RBF
+"9" means each 9th value that was selected in the GUI for training dataset in the selected training file(s), (10) can be ignored
+"1" means the radius of the RBF
+"95" means that that every 95th value was selected in the GUI from the training dataset to serve as a center of RBF/neuron
+
+Файлы "section110" и т.п. содержат все 6 сечений реактора при разных углах конуса днища.
+Эти файлы использовались для расчета выходных параметров сети, сохраненных в файлах "110gauss9(10)-1-95" и др.
+Имя такого файла показывает:
+"110" означает угол конуса днища для которого расчитывались параметры
+"gauss" означает выбранную РБФ нейросетевой модели
+"9" означает что было использовано каждое 9ое значение из файла для составления обучающей выборки, (10) можно проигнорировать
+"1" означает выбранный радиус РБФ
+"95" означает, что в качестве центров РБФ/нейронов было выбрано каждое 95-е значение обучающей выборки
