@@ -1,7 +1,7 @@
 cx-Freeze==5.1.1
 et-xmlfile==1.0.1
 jdcal==1.4.1
-numpy==1.16.3
+numpy==1.22.0
 openpyxl==2.6.2
 pandas==0.24.2
 PyQt5==5.12.1
